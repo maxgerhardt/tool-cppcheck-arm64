@@ -1,0 +1,18 @@
+{
+  "name": "tool-cppcheck",
+  "version": "1.241.210401",
+  "description": "Static code analysis tool for the C and C++ programming languages",
+  "keywords": [
+    "static analysis",
+    "tools"
+  ],
+  "homepage": "http://cppcheck.sourceforge.net",
+  "license": "GPL-3.0-or-later",
+  "system": [
+    "linux_aarch64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmar/cppcheck"
+  }
+}
